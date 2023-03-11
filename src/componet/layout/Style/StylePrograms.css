@@ -1,0 +1,25 @@
+.programs div a {
+    float: left;
+    width: 25%;
+    padding: 10px 10px 0px 10px;
+    text-decoration: none;
+}
+
+.programs div a img {
+    width: 100%;
+}
+
+.programs div a p{
+    color: red;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: large;
+}
+
+.programs div a span{
+    color: slategrey;
+}
+
+.programs div a:hover {
+    border-bottom: 2px solid red;
+}

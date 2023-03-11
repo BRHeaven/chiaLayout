@@ -1,0 +1,23 @@
+.header_top {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.header_bottom ul li{
+  display: inline;
+  list-style: none;
+}
+
+.header_bottom ul li:hover{
+  border-bottom: 2px solid red;
+}
+
+.header_bottom ul li a{
+  text-decoration: none;
+  color: #636363;
+  font-size: 1vw;
+  padding: 0.6em;
+  font-weight: bold;
+  text-transform: uppercase;
+}

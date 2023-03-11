@@ -1,0 +1,12 @@
+.line{
+    background-image: url("../../../../public/Image/line.png");
+    height: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+.Content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 3em;
+}

@@ -1,0 +1,13 @@
+.footer{
+    background-color: red;
+    color: white;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer p{
+    width: 50%;
+    word-spacing: 2px;
+    text-align: justify;
+}
